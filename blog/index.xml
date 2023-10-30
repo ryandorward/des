@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on Dorward Engineering Services</title>
-    <link>https://mjx.ca/blog/</link>
+    <link>https://ryandorward.github.io/des/blog/</link>
     <description>Recent content in Blogs on Dorward Engineering Services</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; Dorward Engineering Services Ltd. All rights reserved.</copyright>
-    <lastBuildDate>Sun, 23 Apr 2023 14:51:12 +0600</lastBuildDate><atom:link href="https://mjx.ca/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 23 Apr 2023 14:51:12 +0600</lastBuildDate><atom:link href="https://ryandorward.github.io/des/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Phase 1. Discovery &#43; Diagnosis</title>
-      <link>https://mjx.ca/blog/discovery/</link>
+      <link>https://ryandorward.github.io/des/blog/discovery/</link>
       <pubDate>Sun, 23 Apr 2023 14:51:12 +0600</pubDate>
       
-      <guid>https://mjx.ca/blog/discovery/</guid>
+      <guid>https://ryandorward.github.io/des/blog/discovery/</guid>
       <description>Shared understanding</description>
     </item>
     
     <item>
       <title>Phase 2. Strategy</title>
-      <link>https://mjx.ca/blog/strategy/</link>
+      <link>https://ryandorward.github.io/des/blog/strategy/</link>
       <pubDate>Sun, 23 Apr 2023 14:51:12 +0600</pubDate>
       
-      <guid>https://mjx.ca/blog/strategy/</guid>
+      <guid>https://ryandorward.github.io/des/blog/strategy/</guid>
       <description>Plan of action</description>
     </item>
     
     <item>
       <title>Phase 3. Design &#43; Develop</title>
-      <link>https://mjx.ca/blog/design-development/</link>
+      <link>https://ryandorward.github.io/des/blog/design-development/</link>
       <pubDate>Sun, 23 Apr 2023 14:51:12 +0600</pubDate>
       
-      <guid>https://mjx.ca/blog/design-development/</guid>
+      <guid>https://ryandorward.github.io/des/blog/design-development/</guid>
       <description>Build</description>
     </item>
     
     <item>
       <title>Phase 4. Post-Launch</title>
-      <link>https://mjx.ca/blog/post-launch/</link>
+      <link>https://ryandorward.github.io/des/blog/post-launch/</link>
       <pubDate>Sun, 23 Apr 2023 14:51:12 +0600</pubDate>
       
-      <guid>https://mjx.ca/blog/post-launch/</guid>
+      <guid>https://ryandorward.github.io/des/blog/post-launch/</guid>
       <description>Evaluate and evolve</description>
     </item>
     
