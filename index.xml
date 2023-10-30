@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dorward Engineering Services</title>
+    <link>https://mjx.ca/</link>
+    <description>Recent content on Dorward Engineering Services</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; Dorward Engineering Services Ltd. All rights reserved.</copyright>
+    <lastBuildDate>Sun, 23 Apr 2023 14:51:12 +0600</lastBuildDate><atom:link href="https://mjx.ca/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Phase 1. Discovery &#43; Diagnosis</title>
+      <link>https://mjx.ca/blog/discovery/</link>
+      <pubDate>Sun, 23 Apr 2023 14:51:12 +0600</pubDate>
+      
+      <guid>https://mjx.ca/blog/discovery/</guid>
+      <description>Shared understanding</description>
+    </item>
+    
+    <item>
+      <title>Phase 2. Strategy</title>
+      <link>https://mjx.ca/blog/strategy/</link>
+      <pubDate>Sun, 23 Apr 2023 14:51:12 +0600</pubDate>
+      
+      <guid>https://mjx.ca/blog/strategy/</guid>
+      <description>Plan of action</description>
+    </item>
+    
+    <item>
+      <title>Phase 3. Design &#43; Develop</title>
+      <link>https://mjx.ca/blog/design-development/</link>
+      <pubDate>Sun, 23 Apr 2023 14:51:12 +0600</pubDate>
+      
+      <guid>https://mjx.ca/blog/design-development/</guid>
+      <description>Build</description>
+    </item>
+    
+    <item>
+      <title>Phase 4. Post-Launch</title>
+      <link>https://mjx.ca/blog/post-launch/</link>
+      <pubDate>Sun, 23 Apr 2023 14:51:12 +0600</pubDate>
+      
+      <guid>https://mjx.ca/blog/post-launch/</guid>
+      <description>Evaluate and evolve</description>
+    </item>
+    
+    <item>
+      <title>John Doe</title>
+      <link>https://mjx.ca/author/john-doe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mjx.ca/author/john-doe/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida.</description>
+    </item>
+    
+    <item>
+      <title>Mark Dinn</title>
+      <link>https://mjx.ca/author/mark-dinn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mjx.ca/author/mark-dinn/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida.</description>
+    </item>
+    
+  </channel>
+</rss>
