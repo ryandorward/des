@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Dorward Engineering Services</title>
-    <link>https://ryandorward.github.io/des/categories/</link>
+    <link>https://dorwardengineering.ca/categories/</link>
     <description>Recent content in Categories on Dorward Engineering Services</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright &amp;copy; Dorward Engineering Services Ltd. All rights reserved.</copyright><atom:link href="https://ryandorward.github.io/des/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright &amp;copy; Dorward Engineering Services Ltd. All rights reserved.</copyright><atom:link href="https://dorwardengineering.ca/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
