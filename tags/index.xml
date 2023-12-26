@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Dorward Engineering Services</title>
-    <link>https://dorwardengineering.ca/tags/</link>
+    <link>https://dorwardengineering.com/tags/</link>
     <description>Recent content in Tags on Dorward Engineering Services</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright &amp;copy; Dorward Engineering Services Ltd. All rights reserved.</copyright><atom:link href="https://dorwardengineering.ca/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright &amp;copy; Dorward Engineering Services Ltd. All rights reserved.</copyright><atom:link href="https://dorwardengineering.com/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on Dorward Engineering Services</title>
-    <link>https://dorwardengineering.ca/blog/</link>
+    <link>https://dorwardengineering.com/blog/</link>
     <description>Recent content in Blogs on Dorward Engineering Services</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; Dorward Engineering Services Ltd. All rights reserved.</copyright>
-    <lastBuildDate>Sun, 23 Apr 2023 14:51:12 +0600</lastBuildDate><atom:link href="https://dorwardengineering.ca/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 23 Apr 2023 14:51:12 +0600</lastBuildDate><atom:link href="https://dorwardengineering.com/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Phase 1. Discovery &#43; Diagnosis</title>
-      <link>https://dorwardengineering.ca/blog/discovery/</link>
+      <link>https://dorwardengineering.com/blog/discovery/</link>
       <pubDate>Sun, 23 Apr 2023 14:51:12 +0600</pubDate>
       
-      <guid>https://dorwardengineering.ca/blog/discovery/</guid>
+      <guid>https://dorwardengineering.com/blog/discovery/</guid>
       <description>Shared understanding</description>
     </item>
     
     <item>
       <title>Phase 2. Strategy</title>
-      <link>https://dorwardengineering.ca/blog/strategy/</link>
+      <link>https://dorwardengineering.com/blog/strategy/</link>
       <pubDate>Sun, 23 Apr 2023 14:51:12 +0600</pubDate>
       
-      <guid>https://dorwardengineering.ca/blog/strategy/</guid>
+      <guid>https://dorwardengineering.com/blog/strategy/</guid>
       <description>Plan of action</description>
     </item>
     
     <item>
       <title>Phase 3. Design &#43; Develop</title>
-      <link>https://dorwardengineering.ca/blog/design-development/</link>
+      <link>https://dorwardengineering.com/blog/design-development/</link>
       <pubDate>Sun, 23 Apr 2023 14:51:12 +0600</pubDate>
       
-      <guid>https://dorwardengineering.ca/blog/design-development/</guid>
+      <guid>https://dorwardengineering.com/blog/design-development/</guid>
       <description>Build</description>
     </item>
     
     <item>
       <title>Phase 4. Post-Launch</title>
-      <link>https://dorwardengineering.ca/blog/post-launch/</link>
+      <link>https://dorwardengineering.com/blog/post-launch/</link>
       <pubDate>Sun, 23 Apr 2023 14:51:12 +0600</pubDate>
       
-      <guid>https://dorwardengineering.ca/blog/post-launch/</guid>
+      <guid>https://dorwardengineering.com/blog/post-launch/</guid>
       <description>Evaluate and evolve</description>
     </item>
     
